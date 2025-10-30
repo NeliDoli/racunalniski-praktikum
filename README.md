@@ -1,2 +1,0 @@
-﻿# Računalniški praktikum
-# bližnjice: shrani: Ctrl+S, preklapljanje med okni: Alt+Tab, odpiranje datoteke: Ctrl+O
