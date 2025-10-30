@@ -9,7 +9,7 @@
 + _Kopiraj_ označeno v odložišče: Ctrl+C (**C**opy)
 + _Izreži_ označeno v odložišče: Ctrl+X
 + _Prilepi_ vsebino odložišča: Ctrl+V
-+ Shrani: Ctrl+S
++ _Shrani_: Ctrl+S
 + Preklapljanje med okni: Alt+Tab
 + Odpiranje datoteke: Ctrl+O
 
