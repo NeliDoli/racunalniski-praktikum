@@ -19,7 +19,17 @@ h2 {margin-top: 2em;
 
 .slika img {width: 100%;
     height: auto;
+    border-radius: 50%;
 }
+
+.slika p:last-child {font-size: 0.8em;
+    padding-top: 0.5em;
+}
+
+/* puščica pred povezavami */
+a::before {content:"\25B6"}
+
+
 
 body {
     /*  Barva pisave pod značko oz. oznako  */
